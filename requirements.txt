@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+langgraph
+langgraph-checkpoint-sqlite
+langchain-google-genai
+pydantic
+python-dotenv
+playwright
