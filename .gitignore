@@ -2,8 +2,7 @@
 backend/.env
 __pycache__/
 *.py[cod]
-backend/checkpoints.sqlite*
+checkpoints.sqlite*
 preview_website/*
 generated_website/*
-
 .venv/
